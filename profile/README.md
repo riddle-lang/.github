@@ -1,12 +1,26 @@
 ## Hi there 👋
 
-<!--
+We are [riddle-lang](https://github.com/riddle-lang), an open-source organization building [Riddle](https://github.com/riddle-lang/riddle), a concise, modern, and fast programming language.
 
-**Here are some ideas to get you started:**
+### What we are building
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Riddle](https://github.com/riddle-lang/riddle): the compiler and toolchain for the language, including type checking, move checking, borrow and escape analysis, unsafe semantics, a standard library, a C backend, project tooling, and LSP support.
+- [Playground](https://github.com/riddle-lang/playground): a browser-based playground for trying Riddle.
+- [Docs](https://github.com/riddle-lang/docs): tutorials and documentation for the language.
+- [ridup](https://github.com/riddle-lang/ridup): the installer for the Riddle toolchain.
+
+Riddle is an experimental language inspired by Rust and Go. It is still in a technical preview, which means the language and toolchain may evolve and change over time.
+
+### Get involved
+
+- Explore the repositories above and try the language.
+- Report issues or suggest improvements.
+- Contribute code, examples, or documentation.
+- Share feedback and help shape the future of Riddle.
+
+### Useful links
+
+- [Riddle repository](https://github.com/riddle-lang/riddle)
+- [Documentation](https://riddle-lang.github.io/docs/)
+- [Releases](https://github.com/riddle-lang/riddle/releases)
+- [Playground](https://github.com/riddle-lang/playground)
